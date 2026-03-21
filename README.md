@@ -53,15 +53,6 @@ The dataset was designed to evaluate the robustness of reconstruction models und
 - different percentages of missing data;
 - fixed-gap and multi-gap corruption patterns.
 
-## Model Summary
-
-The proposed model is a **UNet-TCN** architecture for one-dimensional PPG signal reconstruction.
-
-Its main components include:
-
-- an encoder-decoder U-Net backbone;
-- temporal convolutional blocks in the bottleneck for long-range temporal modeling;
-- skip connections for preserving local waveform details.
 
 The model is trained to reconstruct clean PPG signals from degraded inputs while preserving signal morphology under noise and missing-data corruption.
 
