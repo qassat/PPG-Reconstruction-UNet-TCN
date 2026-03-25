@@ -2,7 +2,7 @@
 
 This repository provides the dataset and model description associated with the paper:
 
-**“Reconstruction and Denoising of Photoplethysmography Signals using Temporal Convolutional UNet”**
+**“Reconstruction and Denoising of Photoplethysmography Signals using hybrid Temporal Convolutional UNet”**
 
 ## Repository Contents
 
