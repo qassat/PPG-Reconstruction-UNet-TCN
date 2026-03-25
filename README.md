@@ -2,7 +2,7 @@
 
 This repository provides the dataset and model description associated with the paper:
 
-**“Robust Reconstruction of Degraded Photoplethysmography Signals using Temporal Convolutional UNet”**
+**“Reconstruction of Degraded Photoplethysmography Signals using Temporal Convolutional UNet”**
 
 ## Repository Contents
 
