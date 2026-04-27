@@ -2,7 +2,8 @@
 
 This repository provides the dataset and model description associated with the paper:
 
-**“Reconstruction and Denoising of Photoplethysmography Signals using hybrid Temporal Convolutional UNet”**
+**“Efficient Hybrid Temporal Convolutional UNet for Real-Time PPG Signal Restoration in
+mHealth Systems”**
 
 ## Repository Contents
 
