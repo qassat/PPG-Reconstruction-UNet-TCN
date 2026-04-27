@@ -1,4 +1,4 @@
-# Reconstruction of Degraded PPG Signals using UNet-TCN
+# Efficient Hybrid Temporal Convolutional UNet for Real-Time PPG Signal Restoration in mHealth Systems
 
 This repository provides the dataset and model description associated with the paper:
 
