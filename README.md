@@ -1,9 +1,8 @@
-# Efficient Hybrid Temporal Convolutional UNet for Real-Time PPG Signal Restoration in mHealth Systems
+# Measurement-Oriented Reconstruction and Denoising of Degraded Photoplethysmography Signals Using a Hybrid UNet–TCN Framework
 
 This repository provides the dataset and model description associated with the paper:
 
-**“Efficient Hybrid Temporal Convolutional UNet for Real-Time PPG Signal Restoration in
-mHealth Systems”**
+**“Measurement-Oriented Reconstruction and Denoising of Degraded Photoplethysmography Signals Using a Hybrid UNet–TCN Framework”**
 
 ## Repository Contents
 
